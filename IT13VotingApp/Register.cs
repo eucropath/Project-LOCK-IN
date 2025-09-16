@@ -39,7 +39,7 @@ namespace IT13VotingApp
                     {
                         conn.Open();
 
-                        // ✅ Prevent duplicate emails
+                        // Prevent duplicate emails
                         string checkQuery = "SELECT COUNT(*) FROM Voter WHERE Email=@Email";
                         MySqlCommand checkCmd = new MySqlCommand(checkQuery, conn);
                         checkCmd.Parameters.AddWithValue("@Email", EmailTxt.Text);
