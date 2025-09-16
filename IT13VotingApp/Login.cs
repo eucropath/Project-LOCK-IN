@@ -49,7 +49,7 @@ namespace IT13VotingApp
                             int userId = Convert.ToInt32(result);
                             MessageBox.Show("Login successful!");
 
-                            // ✅ Open Vote form and pass UserID
+                            // Open Vote form and pass UserID
                             Vote voteForm = new Vote(userId);
                             voteForm.Show();
                             this.Hide();
