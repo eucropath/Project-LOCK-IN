@@ -36,7 +36,7 @@ namespace IT13VotingApp
                 {
                     conn.Open();
 
-                    // ✅ Prevent duplicate voting
+                    // Prevent duplicate voting
                     string checkQuery = "SELECT COUNT(*) FROM Results WHERE UserID=@UserID";
                     MySqlCommand checkCmd = new MySqlCommand(checkQuery, conn);
                     checkCmd.Parameters.AddWithValue("@UserID", VoterID);
