@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|c:\\users\\acer\\downloads\\project-lock-in-it13-updates\\project-lock-in-it13-updates\\it13votingappfinal\\voterregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\voterregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|c:\\users\\acer\\downloads\\project-lock-in-it13-updates\\project-lock-in-it13-updates\\it13votingappfinal\\voterregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\voterregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|c:\\users\\acer\\downloads\\project-lock-in-it13-updates\\project-lock-in-it13-updates\\it13votingappfinal\\voterdashboardcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\voterdashboardcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\votingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\votingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\votingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\votingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\voterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\voterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\voterdashboardcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\voterdashboardcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\candidateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\candidateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\resultsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\candidateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\candidateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\it13votingappfinal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E7C47CB-DAB9-46D6-BA11-F20B3F10DA45}|IT13VotingAppFinal\\IT13VotingAppFinal.csproj|solutionrelative:it13votingappfinal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VoterRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterRegistration.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VoterRegistration.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterRegistration.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\VoterRegistration.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAwAIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:38:20.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoterRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterRegistration.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VoterRegistration.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterRegistration.cs [Design]",
+              "RelativeToolTip": "IT13VotingAppFinal\\VoterRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T09:38:18.978Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoterDashboardcs.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterDashboardcs.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VoterDashboardcs.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterDashboardcs.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\VoterDashboardcs.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwEgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:17:49.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\LoginForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\LoginForm.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\LoginForm.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAOoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:39:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoterDashboardcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterDashboardcs.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VoterDashboardcs.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterDashboardcs.cs [Design]",
+              "RelativeToolTip": "IT13VotingAppFinal\\VoterDashboardcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:16:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VotingForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VotingForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VotingForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VotingForm.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\VotingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:19:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VotingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VotingForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VotingForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VotingForm.cs [Design]",
+              "RelativeToolTip": "IT13VotingAppFinal\\VotingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:42:30.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VoterForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\VoterForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\VoterForm.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\VoterForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:24:13.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "IT13VotingAppFinal\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:15:43.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\DataAccess.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\DataAccess.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\DataAccess.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T11:59:51.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CandidateForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\CandidateForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\CandidateForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\CandidateForm.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\CandidateForm.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAgwH8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:16:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\AdminDashboardForm.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\AdminDashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:12:05.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResultsForm.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\ResultsForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\ResultsForm.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\ResultsForm.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\ResultsForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:21:39.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\ResultsForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\ResultsForm.cs",
+              "ToolTip": "C:\\Users\\Kyle\\source\\repos\\IT13VotingAppFinal\\IT13VotingAppFinal\\ResultsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Kyle\\source\\repos\\IT13VotingAppFinal\\IT13VotingAppFinal\\ResultsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:48:29.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\Program.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\Program.cs",
+              "RelativeToolTip": "IT13VotingAppFinal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T12:05:41.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CandidateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\CandidateForm.cs",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\CandidateForm.cs",
+              "ToolTip": "C:\\Users\\Kyle\\source\\repos\\IT13VotingAppFinal\\IT13VotingAppFinal\\CandidateForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Kyle\\source\\repos\\IT13VotingAppFinal\\IT13VotingAppFinal\\CandidateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T10:32:56.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\App.config",
+              "RelativeDocumentMoniker": "IT13VotingAppFinal\\App.config",
+              "ToolTip": "C:\\Users\\ACER\\Downloads\\Project-LOCK-IN-it13-updates\\Project-LOCK-IN-it13-updates\\IT13VotingAppFinal\\App.config",
+              "RelativeToolTip": "IT13VotingAppFinal\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-18T11:56:40.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
